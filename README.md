@@ -10,11 +10,9 @@ Our platform is not only catered for such group of people, it may also help incr
 
 #### Engage and captivate your participants even more with our platform now!
 
-<br>
-
 ## PROBLEM STATEMENT
 
-When we attend a conference/ meeting / townhall, we might have questions that we would like to ask during the presentation without interrupting the presentation itself. Some of us may wish to ask those questions anonymously as well.
+When we attend a conference/ meeting / townhall, we might have questions that we would like to ask during the presentation without interrupting the presentation itself. Some of us may wish to ask those questions anonymously as well. As the presenter, we would also like to address these questions in further detail but are limited to the time allocated.
 
 ## PROBLEM SOLUTION
 
@@ -38,7 +36,24 @@ This app aims to allow participants to post any questions they have and the orga
 4. Able to view all attended events room and view the Q&A of the respective rooms
 5. Able to vote for the questions that are important to them
 
-## TECH STACKS
+---
+
+## Our Approach
+
+- Brainstorming on ideas of project (evolving ideas)
+- Do the model schema together as a group
+- Listing down all the to-dos on trello
+- Grind!
+- Seeing the MVP (light at the end of the tunnel)
+- Test > Find bugs > Fixes
+
+### Wireframe
+
+https://www.figma.com/file/xGf8spCbzt7GOWshpoE0WC/SEI-26-Project?node-id=0%3A1
+
+---
+
+## TECH STACK
 
 ### Frontend:
 
@@ -61,7 +76,6 @@ This app aims to allow participants to post any questions they have and the orga
 - Dayjs
 - React-bootstrap
 - React-bootstrap-sweetalert
-- React-datepicker
 - React-datetime-picker
 - React-router-dom
 
@@ -71,3 +85,16 @@ This app aims to allow participants to post any questions they have and the orga
 - Dotenv
 - Express-session
 - Express-validator
+
+## Contribution to Project
+
+| Sophia  | Kalya      | Kok Yong  |
+| ------- | ---------- | --------- |
+| Backend | Full Stack | Front End |
+
+### Contribution by all:
+
+- Model Schema
+- Testing / identify bugs / bug fixing / squashing
+- CSS Styling
+- Brain juice, sweat and almost tears. No blood.
